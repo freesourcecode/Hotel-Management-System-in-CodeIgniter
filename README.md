@@ -25,6 +25,7 @@ By reducing the amount of code required for a given operation, CodeIgniter allow
 Add, Edit, Delete, Add New Customer, and Search; ID Number, Full Name, Mobile Number, Complete Address, Email; ID Number, Full Name, Mobile Number, Complete Address, Email.
 
 * **Bookings:**
+
 Choose a floor, room sizes, and other options. Choose Room, Month, Day, Year, Search, Booking List, Room, Start Date, End Date, Name, Details, Booking Date, and Add New Booking from the drop-down menus.
 
 * **Users:**
